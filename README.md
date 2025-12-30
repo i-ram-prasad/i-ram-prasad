@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-ram-prasad" alt="i-ram-prasad" /></a> </p>
 
-- 🔭 I’m currently working on **A simple JavaScript-based news app and a personal portfolio website**
+- 🔭 I’m currently working on **Salesforce LWC Projects**
 
 - 👯 I’m looking to collaborate on **Creative front-end projects or open-source websites for beginners**
 
