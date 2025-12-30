@@ -1,45 +1,55 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+...+👋;+I'm+Ram+Prasad!;" />
-</h1>
-<h3 align="center">A passionate FrontEnd developer and Salesforce Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-ram-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="i-ram-prasad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-ram-prasad" alt="i-ram-prasad" /></a> </p>
-
-- 🔭 I’m currently working on **Salesforce LWC Projects**
-
-- 👯 I’m looking to collaborate on **Creative front-end projects or open-source websites for beginners**
-
-- 🤝 I’m looking for help with **Handling JavaScript API errors and improving UI design with CSS**
-
-- 📫 How to reach me **ramprasadmajhi99@gmail.com**
-
-- ⚡ Fun fact **I can spend hours debugging a semicolon 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ram-prasad-majhi-f18075003040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ram-prasad-majhi-f18075003040/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0176D3&gradient=00A1E0&height=250&section=header&text=RAM%20PRASAD&fontSize=80&fontAlignY=35&desc=SALESFORCE%20DEVELOPER&descAlignY=55&descSize=25&animation=thunder&stroke=ffffff&strokeWidth=2&revert=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"       alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" width="200">
+</p>
+
+<p align="center">
+  <b>Building scalable solutions on the Salesforce Customer 360 Platform</b><br>
+  <i>LWC Specialist | Apex Logic | Salesforce Admin</i>
+</p>
+
+<p align="center">
+  <a href="mailto:ramprasadmajhi99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"       width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"   height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a> 
+  <a href="https://www.linkedin.com/in/ram-prasad-majhi-f18075003040/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/ram-prasad-majhi">
+    <img src="https://img.shields.io/badge/Trailhead-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-ram-prasad&show_icons=true&locale=en&layout=compact" alt="i-ram-prasad" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-ram-prasad&show_icons=true&locale=en" alt="i-ram-prasad" /></p>
+### ☁️ Professional Summary
+I am a dedicated **Salesforce Developer** from India with a strong focus on **Lightning Web Components (LWC)** and **Apex**. I enjoy solving complex business problems with clean, maintainable code and building modern interfaces that users love.
+
+* 🚀 **Currently:** Developing custom LWC components and optimizing Apex triggers.
+* ⚡ **Focus:** Improving performance through asynchronous processing and efficient SOQL.
+* 📸 **Creative:** I bring a designer's eye to Salesforce development, fueled by my passion for photography.
+
+---
+
+### 🛠️ Technical Skill Set
+
+| **Salesforce Ecosystem** | **Web Development** | **Dev Tools** |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Apex-0176D3?style=flat-square" /> | <img src="https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/LWC-0176D3?style=flat-square" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/SFDX-0176D3?style=flat-square" /> |
+| <img src="https://img.shields.io/badge/Flow_Builder-0176D3?style=flat-square" /> | <img src="https://img.shields.io/badge/CSS3_/_SLDS-1572B6?style=flat-square&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
+
+---
+
+### 🖥️ Developer Profile
+```json
+{
+  "name": "Ram Prasad",
+  "role": "Salesforce Developer",
+  "location": "India",
+  "tech_stack": ["LWC", "Apex", "JavaScript", "SOQL"],
+  "mission": "To build cloud solutions that empower businesses."
+}
