@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Building scalable solutions on the Salesforce Customer 360 Platform</b><br>
-  <i>LWC Specialist | Apex Logic | Salesforce Admin</i>
+  <i>LWC | Apex Logic | Salesforce Admin</i>
 </p>
 
 <p align="center">
